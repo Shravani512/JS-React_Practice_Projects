@@ -1,0 +1,42 @@
+body {
+    background-color: rgb(39, 126, 181);
+}
+
+.jokeBox {
+    text-align: center;
+    background-color: white;
+    font-size: 30px;
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 200px;
+    max-width: 100%;
+    width: 1000px;
+    padding: 35px 20px;
+    box-shadow: 0 10px 20px 10px rgba(0, 0, 0, 0.1);
+}
+
+#btn {
+    height: 45px;
+    width: 120px;
+    background-color: white;
+    color: rgb(244, 181, 35);
+    border-radius: 5px;
+    font-size: large;
+    border: 20;
+    border-color: rgb(244, 181, 35);
+    font-style: italic;
+    box-shadow: 0 10px 20px 10px rgba(0, 0, 0, 0.1);
+}
+
+#btn:hover {
+    background-color: rgb(244, 181, 35);
+    color: white;
+}
+
+h3 {
+    padding: 20px;
+}
+
+p {
+    margin-top: -25px;
+}
